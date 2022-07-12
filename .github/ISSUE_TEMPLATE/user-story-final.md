@@ -1,6 +1,6 @@
 ---
 name: User Story Final
-about: Describe this issue template's purpose here.
+about: User Stories for Agile Dev and Scrum Final Project.
 title: ''
 labels: ''
 assignees: ''
